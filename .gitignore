@@ -1,5 +1,5 @@
 # Virtual enviroment
-/flaskr/tutorial_canciones
+/flaskr/tutorial_canciones.db
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
